@@ -1,4 +1,4 @@
-# Market-Segmentation-and-Campaign-Analytics
+# Market Segmentation and Campaign Analytics
 Market Segmentation and Campaign Analytics for a leading pizza chain in US
 ## Objective 1
 Create defined bucket groups for store profiles and determine offers most likely to work for each store profile group
